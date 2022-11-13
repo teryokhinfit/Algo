@@ -1,0 +1,9 @@
+.idea/
+Bin/
+Factorial/
+rekurs/
+sort/
+test/
+target/
+# Project exclude paths
+/target/
